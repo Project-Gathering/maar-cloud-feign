@@ -1,4 +1,4 @@
-package maar.cloud.maarcloudfeign;
+package maar.cloud.feign;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

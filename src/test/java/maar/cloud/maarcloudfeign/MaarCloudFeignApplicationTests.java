@@ -1,10 +1,10 @@
-package maar.cloud.feign;
+package maar.cloud.maarcloudfeign;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FeignApplicationTests {
+class MaarCloudFeignApplicationTests {
 
 	@Test
 	void contextLoads() {

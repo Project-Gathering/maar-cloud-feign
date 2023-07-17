@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>maar.cloud</groupId>
-	<artifactId>feign</artifactId>
+	<artifactId>maar-cloud-feign</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>feign</name>
+	<name>maar-cloud-feign</name>
 	<description>project maar cloud feign</description>
 	<properties>
 		<java.version>11</java.version>
